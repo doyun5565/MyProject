@@ -1,5 +1,5 @@
 # Project Title
----
+
 A brief description of what this project does and who it's for
 
 <http://logo_link>
@@ -12,4 +12,4 @@ Include some badges such as build status, test coverage, etc.
 - Feature 1
 - Feature 2
 - Feature 3
-----
+
